@@ -1,0 +1,2 @@
+rootProject.name='AplikasiUntukUTS_v2'
+include ':app'
